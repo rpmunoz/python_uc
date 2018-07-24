@@ -1,6 +1,6 @@
 # Taller de introducción a Python
 
-Este repositorio contiene lecturas y talleres de Python desarrolladas por los investigadores Roberto Muñoz y Jose Wielandt. Este material forma parte del diplomado de Data Science de la Facultad de Matemáticas de Pontificia Universidad Católica de Chile.
+Este repositorio contiene lecturas y talleres de Python desarrolladas por los investigadores <a href="https://cl.linkedin.com/in/robertopmunoz">Roberto Muñoz</a> y <a href="https://www.linkedin.com/in/jos%C3%A9-wielandt-bb6079149"> Jose Wielandt</a>. Este material forma parte del diplomado de Data Science de la Facultad de Matemáticas de Pontificia Universidad Católica de Chile.
 
 Este taller fue distribuido en dos días
 
